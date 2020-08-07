@@ -8,7 +8,7 @@
 
 <p>In this repository you can find source code in C++ to implement a basic version of the following Data Structures: </p>
 <ul>
-  <li><p><b>Template Priority Queue - Max Heap</b></p></li>
+  <li><p>Template Priority Queue - Max Heap</p></li>
   <li><p>Open Address Hash Table for strings</p></li>
 </ul>
 
